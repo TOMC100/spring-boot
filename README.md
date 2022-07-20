@@ -31,6 +31,7 @@
 
 ## 体系架构
 ![architecture](/screenshots/architecture.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTOMC100%2Fspring-boot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTOMC100%2Fspring-boot?ref=badge_shield)
 ## 应用组件
 ![components](/screenshots/components.jpg)
 
@@ -142,3 +143,6 @@ curl -X POST -vu client:secret http://localhost:8060/uaa/oauth/token -H "Accept:
 ```
 curl -X POST -vu user:password http://localhost:8888/bus/refresh
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTOMC100%2Fspring-boot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTOMC100%2Fspring-boot?ref=badge_large)
